@@ -43,7 +43,8 @@
 
 ![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/a9ce2fa1-a7ff-4c00-8c74-5a4ba4e9a937)
 
-- While in the Admin Panel we can add access to the support department for our Agents.
+- While in the Admin Panel we can add access to the Support department for our Agents.
 
 ![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/514fddf3-d361-4225-9e59-c834f7ab7733)
 
+<h3>Assignment & Communication</h3>
