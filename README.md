@@ -81,6 +81,7 @@
 
 - Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. For Future reference you can study closed Tickets to better uderstand what topics usually arise and how they were handled to further your own knowledge.
 
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/ae58a5ed-19c7-4366-a135-084a9fa406b0)
 
 
 
