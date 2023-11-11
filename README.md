@@ -63,6 +63,15 @@
 
 - After assigning the Ticket we need to set an SLA plan and as this is extremely important we will set it to a Sev-A (1 hour grace period, 24/7, Urgent Tickets)
 
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/bfb8f95b-2484-4fb8-960f-d15be2becb43)
+
+- As this may require more knowledge and power than your average agent, we can change the department over from Support to System Administrators.
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/0900d937-bf35-4875-843d-43ebce60a4c1)
+
+
+
+
 
 
 
