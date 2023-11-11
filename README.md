@@ -69,6 +69,9 @@
 
 ![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/0900d937-bf35-4875-843d-43ebce60a4c1)
 
+- As you can see from the Ticket Thread, it leaves a digital paper trail of all the work being done to a Ticket.
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/4eb0bd37-251b-4bd4-aa32-f6553afb0fd4)
 
 
 
