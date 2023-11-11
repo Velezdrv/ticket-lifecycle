@@ -73,7 +73,13 @@
 
 ![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/4eb0bd37-251b-4bd4-aa32-f6553afb0fd4)
 
+<h2>Working the Issue and Resolution</h2>
 
+- To close out a Ticket, we have received a response and we coordinate that with the Creater of the Ticket and change Ticket Status to Resolved 
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/3f0e5e45-8e94-4b6a-8d6f-94a6d337da28)
+
+- Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. For Future reference you can study closed Tickets to better uderstand what topics usually arise and how they were handled to further your own knowledge.
 
 
 
