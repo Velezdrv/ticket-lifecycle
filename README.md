@@ -48,3 +48,22 @@
 ![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/514fddf3-d361-4225-9e59-c834f7ab7733)
 
 <h3>Assignment & Communication</h3>
+
+- As Brad Pitt, we login to osTicket and this is what we are greeted with.
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/3c742fe4-e6e5-48d9-a371-a3fca2d14ac4)
+
+- From here we will click on the ticket Dept Account for Sales Force is down. Next we will change the Priority Level tp Emergency as this prevents most people in the company from taking payments or helping customers.
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/1e0ddf11-ec38-4ddc-9101-8a0d459fef8f)
+
+- Next the Ticket needs to be assigned to an Agent, here you can see we assign it to ourselves as we are logged in as Brad Pitt.
+
+![image](https://github.com/Velezdrv/ticket-lifecycle/assets/147437260/cc288b31-a9e6-46d5-b033-c00e29392c96)
+
+- After assigning the Ticket we need to set an SLA plan and as this is extremely important we will set it to a Sev-A (1 hour grace period, 24/7, Urgent Tickets)
+
+
+
+
+
